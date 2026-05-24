@@ -19,7 +19,7 @@ Fresh Foods is a multi-page website for an online supermarket featuring product 
 
 | | |
 |---|---|
-| ![Home Page](screenshots/home.png) | ![Registration Page](screenshots/login.png) |
+| ![Home Page](screenshots/home.png) | ![Registration Page](screenshots/registration.png) |
 | Home Page | Registration Page |
 
 | | |
