@@ -15,6 +15,16 @@ Fresh Foods is a multi-page website for an online supermarket featuring product 
 - User registration page
 - About Us page
 
+## Page Screenshots
+
+<img width="1900" height="870" alt="Screenshot 2026-05-24 143608" src="https://github.com/user-attachments/assets/2223769a-8099-41c6-8c85-8591b0359d7c" />
+<img width="1901" height="834" alt="Screenshot 2026-05-24 144150" src="https://github.com/user-attachments/assets/dde04ccd-46ab-46b7-b582-2979b54acc67" />
+![Uploading image (2).png…]()
+
+![Uploading image.png…]()
+
+
+
 ## Technologies Used
 
 - HTML5
@@ -50,6 +60,3 @@ Fresh-Foods-main/
 
 This is a static frontend project created for educational purposes. No backend functionality is implemented.
 
----
-
-**Copyright © 2024 Fresh Foods Marketing Services (Pvt) Ltd.**
