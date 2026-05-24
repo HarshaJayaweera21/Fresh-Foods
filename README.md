@@ -17,12 +17,15 @@ Fresh Foods is a multi-page website for an online supermarket featuring product 
 
 ## Page Screenshots
 
-<img width="1900" height="870" alt="Screenshot 2026-05-24 143608" src="https://github.com/user-attachments/assets/2223769a-8099-41c6-8c85-8591b0359d7c" />
-<img width="1901" height="834" alt="Screenshot 2026-05-24 144150" src="https://github.com/user-attachments/assets/dde04ccd-46ab-46b7-b582-2979b54acc67" />
-![Uploading image (2).png…]()
+| | |
+|---|---|
+| ![Home Page](screenshots/home.png) | ![Login Page](screenshots/login.png) |
+| Home Page | Login Page |
 
-![Uploading image.png…]()
-
+| | | |
+|---|---|---|
+| ![Step 1](screenshots/signup-step1.png) | ![Step 2](screenshots/signup-step2.png) | ![Step 3](screenshots/signup-step3.png) |
+| Sign Up — Step 1 | Sign Up — Step 2 | Sign Up — Step 3 |
 
 
 ## Technologies Used
